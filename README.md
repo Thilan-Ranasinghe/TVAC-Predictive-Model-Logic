@@ -38,8 +38,8 @@ Heat Transfer Coefficients (HTC) are updated dynamically based on film temperatu
 ---
 
 ## 3. Reduced-Order Modeling (ROM)
-### The 10-Minute Simulation Logic
-The core achievement of this project was reducing a multi-day simulation into a **10-minute runtime** using a physics-based iteration loop.
+### The Computation cost effective simulation Logic
+The core achievement of this project was reducing a multi-day simulation into a **60-minute runtime** using a physics-based iteration loop.
 
 ![Iterative Energy balance used to update LN2 temp by updating enthalpy](Energy_balance_update.png)
 
